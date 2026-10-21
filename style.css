@@ -93,6 +93,16 @@ h3 { font-size: 13.5px; font-weight: 400; color: #888; margin-bottom: 14px; over
   font-weight: 700;
 }
 
+.badge-top2 {
+  background: linear-gradient(135deg, #b8860b, #e0a800);
+  color: #fff;
+  border-color: #b8860b;
+  font-weight: 700;
+  font-size: 12.5px;
+}
+.award-list li.award-top { background: #fffbea; border-radius: 6px; padding-right: 10px; }
+.award-list li.award-top strong { color: #8a6100; }
+
 /* ── Tab bar ── */
 #tab-bar {
   background: #fff;
